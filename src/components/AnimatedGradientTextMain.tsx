@@ -1,5 +1,4 @@
 'use client'
-import { ChevronRight } from "lucide-react";
 
 import { cn } from "@/lib/utils";
 import AnimatedGradientText from "@/components/magicui/animated-gradient-text";
