@@ -90,7 +90,7 @@ export const Footer = () => {
           <p className="flex items-center justify-center gap-1">
             Made with <Heart className="h-4 w-4 text-red-500 hover:animate-pulse" /> by{" "}
             <Link 
-              href="https://github.com/CubeStar1"
+              href="https://github.com/roykhushi"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary transition-colors"
