@@ -17,8 +17,8 @@ export function TechStack() {
       </h2>
       <div className="flex justify-between items-center max-w-7xl pl-2 mx-auto">
         <div className="w-full">
-          <p className="text-neutral-600 dark:text-neutral-400 text-base md:text-2xl font-sans ">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi blanditiis voluptate nihil quas exercitationem rem porro itaque nobis quam, non quaerat beatae, dolores corporis culpa ipsa eligendi dignissimos, facere odio!
+          <p className="text-neutral-600 dark:text-neutral-400 text-sm md:text-base font-sans ">
+          Built with Next.js and TypeScript for scalable and high-performance development, enhanced by Magic UI and Aeternity UI for intuitive design, and styled with Tailwind CSS for flexibility. The backend is powered by Flask, utilizing the Zephyr-7B-β model via Hugging Face for advanced AI capabilities. Deployed seamlessly on Vercel, our stack ensures a cutting-edge, responsive, and efficient user experience.
           </p>
           <div>
             <TechStackCard />
