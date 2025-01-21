@@ -192,7 +192,7 @@ const PersonalizedContent = () => {
               {/* <span className="font-bold text-neutral-700 dark:text-neutral-200">
                 The first rule of Apple club is that you boast about Apple club.
               </span>{" "} */}
-              The chatbot leverages your health statistics, such as age, weight, medical history, and lifestyle habits, to provide personalized advice and recommendations. Whether it's suggesting a fitness plan, a balanced diet, or preventive measures, the assistance is tailored to your unique health profile, ensuring you receive actionable insights that align with your specific needs and goals. This personalized approach empowers you to make informed decisions and maintain better control over your health.
+              The chatbot leverages your health statistics, such as age, weight, medical history, and lifestyle habits, to provide personalized advice and recommendations. Whether it&apos; suggesting a fitness plan, a balanced diet, or preventive measures, the assistance is tailored to your unique health profile, ensuring you receive actionable insights that align with your specific needs and goals. This personalized approach empowers you to make informed decisions and maintain better control over your health.
             </p>
             <Image
               src="https://cdn.gamma.app/uol6cwk3nkk9xhz/generated-images/sdYzmmTOkuhdWbkN7y-Kq.jpg"
