@@ -11,7 +11,7 @@ export function FeatureCard() {
   ));
 
   return (
-    <>
+    <section id="features">
     <motion.div
       initial={{ opacity: 0, y: 10 }}
       whileInView={{ opacity: 1, y: 0 }}
@@ -27,7 +27,7 @@ export function FeatureCard() {
       <Carousel items={cards} />
     </div>
     </motion.div>
-    </>
+    </section>
     
     
   );
